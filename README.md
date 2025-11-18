@@ -1,7 +1,7 @@
 # AnaliseDadosRH
 
 ## Descrição
-Este projeto apresenta uma análise exploratória aplicada a um conjunto de dados fictícios de Recursos Humanos e visa responder perguntas de negócio que contribuem para melhor compreensão do perfil dos funcionários, experiência profissional em anos, fatores relacionados a níveis de satisfação no trabalho e influências em decisões de promoção.
+Este projeto apresenta uma análise exploratória aplicada a um conjunto de dados fictícios de Recursos Humanos e visa responder perguntas de negócio que contribuem para melhor compreensão do perfil dos funcionários, experiência profissional em anos, fatores relacionados a níveis de satisfação no trabalho e influências em decisões de promoção, baseando em alguns dos principais KPIs da área de Recursos Humanos.
 
 ## Perguntas a serem respondidas
 1 - Qual o total de funcionários atualmente na empresa?

@@ -24,7 +24,7 @@ Este projeto apresenta uma análise exploratória aplicada a um conjunto de dado
 1. Carregamento, leitura e tratamento dos dados
     - Conjunto de dados `DadosRH.csv` é carregado usando a biblioteca `pandas`.
     - Inspeção das colunas e tipos de dados
-    - Verificação de duplicatas, valores nulos e ausentes
+    - Verificação de duplicatas e valores nulos
     - Padronização de variáveis categóricas
 
 2. Análise Exploratória Univariada

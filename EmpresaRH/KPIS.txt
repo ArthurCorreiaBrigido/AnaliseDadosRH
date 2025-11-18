@@ -1,0 +1,20 @@
+- Taxa de rotatividade: mede a frequência com que os funcionários estão deixando a empresa, o que pode indicar problemas com o ambiente de trabalho, remuneração
+ou oportunidades de desenvolvimento.
+
+- Satisfação do funcionário: mede o grau de satisfação dos funcionários com relação ao trabalho, remuneração, ambiente de trabalho e oportunidades de desenvolvimento.
+
+- Tempo médio para preenchimento de vagas: mede o tempo necessário para preencher uma vaga aberta, o que pode indicar a eficiência do processo de recrutamento e seleção.
+
+- Custo de contratação por funcionário: mede o custo total de contratar um novo funcionário, incluindo gastos com anúncios de vagas, entrevistas, testes
+e desenvolvimento.
+
+- Participação em treinamentos: mede  o  número  de  funcionários  que  participam  de programas de treinamento e desenvolvimento, o que pode indicar o interesse dos
+funcionários em melhorar suas habilidades e desenvolver suas carreiras.
+
+- Avaliação de desempenho: mede a avaliação do funcionário em um ciclo de trabalho, normalmente 6 meses ou 12 meses.
+
+- Nível de absenteísmo: mede a frequência com que os funcionários faltam ao trabalho, o que pode indicar problemas com o ambiente de trabalho ou saúde dos funcionários.
+
+- Nível de engajamento: escala que define quão engajados os funcionários estão, normalmente medida com base no nível de absenteísmo, pontualidade, avaliação 
+de desempenho,etc...
+

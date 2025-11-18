@@ -1,4 +1,4 @@
-# AnaliseDadosRH
+# Análise de Dados RH
 
 ## Descrição
 Este projeto apresenta uma análise exploratória aplicada a um conjunto de dados fictícios de Recursos Humanos e visa responder perguntas de negócio que contribuem para melhor compreensão do perfil dos funcionários, experiência profissional em anos, fatores relacionados a níveis de satisfação no trabalho e influências em decisões de promoção, baseando em alguns dos principais KPIs (Indicadores chave de performance) da área de Recursos Humanos.
@@ -54,3 +54,9 @@ Este projeto apresenta uma análise exploratória aplicada a um conjunto de dado
   - pandas
   - matplotlib
   - seaborn 
+
+## Instale as bibliotecas necessárias utilizando o comando:
+
+```bash
+pip install -r requirements.txt
+```

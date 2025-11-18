@@ -22,21 +22,21 @@ Este projeto apresenta uma análise exploratória aplicada a um conjunto de dado
 
 ## Estrutura do Projeto
 1. Carregamento, leitura e tratamento dos dados
-  - Conjunto de dados `DadosRH.csv` é carregado usando a biblioteca `pandas`.
-  - Inspeção das colunas e tipos de dados
-  - Verificação de duplicatas, valores nulos e ausentes
-  - Padronização de variáveis categóricas
+    - Conjunto de dados `DadosRH.csv` é carregado usando a biblioteca `pandas`.
+    - Inspeção das colunas e tipos de dados
+    - Verificação de duplicatas, valores nulos e ausentes
+    - Padronização de variáveis categóricas
 
 2. Análise Exploratória Univariada
-  - **Idade**
-    - A distribuição mostrou diversidade etária, indicando equipe variada entre profissionais jovens e experientes.
-  - **Variáveis categóricas (Gênero, Estado Civil, Departamento, Função, Viagem, Disponibilidade de horas extra, Envolvimento e Status para Promoção.)**
-    - Frequências apresentadas em gráficos de barras, mostrando a distribuição dos funcionários em cada grupo.
-  - **Distribuição da Satisfação no trabalho**
-    - Permitiu identificar tendências gerais de satisfação, possibilitando uma avaliação do clima organizacional e taxa de rotatividade.
+    - **Idade**
+      - A distribuição mostrou diversidade etária, indicando equipe variada entre profissionais jovens e experientes.
+    - **Variáveis categóricas (Gênero, Estado Civil, Departamento, Função, Viagem, Disponibilidade de horas extra, Envolvimento e Status para Promoção.)**
+      - Frequências apresentadas em gráficos de barras, mostrando a distribuição dos funcionários em cada grupo.
+    - **Distribuição da Satisfação no trabalho**
+      - Permitiu identificar tendências gerais de satisfação, possibilitando uma avaliação do clima organizacional e taxa de rotatividade.
 
 3. Respostas das perguntas de negócio
-  - Todas as perguntas foram respondidas utilizando funções da biblioteca `pandas` para cálculos.
+    - Todas as perguntas foram respondidas utilizando funções da biblioteca `pandas` para cálculos.
 
 ## Requisitos
 - Python 3.x
